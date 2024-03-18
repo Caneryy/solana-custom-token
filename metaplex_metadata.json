@@ -1,0 +1,9 @@
+{
+  "name": "Barco Me", 
+  "symbol": "Barco",
+  "uri": "https://raw.githubusercontent.com/Caneryy/solana-custom-token/main/token_metadata.json",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
